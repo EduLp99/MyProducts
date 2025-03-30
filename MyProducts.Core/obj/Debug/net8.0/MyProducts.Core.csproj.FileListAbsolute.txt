@@ -1,0 +1,12 @@
+/Users/edulpk/RiderProjects/MyProducts/MyProducts.Core/bin/Debug/net8.0/MyProducts.Core.deps.json
+/Users/edulpk/RiderProjects/MyProducts/MyProducts.Core/bin/Debug/net8.0/MyProducts.Core.dll
+/Users/edulpk/RiderProjects/MyProducts/MyProducts.Core/bin/Debug/net8.0/MyProducts.Core.pdb
+/Users/edulpk/RiderProjects/MyProducts/MyProducts.Core/obj/Debug/net8.0/MyProducts.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/edulpk/RiderProjects/MyProducts/MyProducts.Core/obj/Debug/net8.0/MyProducts.Core.AssemblyInfoInputs.cache
+/Users/edulpk/RiderProjects/MyProducts/MyProducts.Core/obj/Debug/net8.0/MyProducts.Core.AssemblyInfo.cs
+/Users/edulpk/RiderProjects/MyProducts/MyProducts.Core/obj/Debug/net8.0/MyProducts.Core.csproj.CoreCompileInputs.cache
+/Users/edulpk/RiderProjects/MyProducts/MyProducts.Core/obj/Debug/net8.0/MyProducts.Core.dll
+/Users/edulpk/RiderProjects/MyProducts/MyProducts.Core/obj/Debug/net8.0/refint/MyProducts.Core.dll
+/Users/edulpk/RiderProjects/MyProducts/MyProducts.Core/obj/Debug/net8.0/MyProducts.Core.pdb
+/Users/edulpk/RiderProjects/MyProducts/MyProducts.Core/obj/Debug/net8.0/ref/MyProducts.Core.dll
+/Users/edulpk/RiderProjects/MyProducts/MyProducts.Core/obj/Debug/net8.0/MyProducts.Core.csproj.AssemblyReference.cache
