@@ -11,6 +11,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="064ecde7-df42-4a6c-9144-e29b8e651911" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.MyProducts/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.MyProducts/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.MyProducts/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.MyProducts/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MyProducts.API/obj/Debug/net8.0/MyProducts.API.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MyProducts.API/obj/Debug/net8.0/MyProducts.API.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MyProducts.API/obj/Debug/net8.0/MyProducts.API.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MyProducts.API/obj/Debug/net8.0/MyProducts.API.AssemblyInfoInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MyProducts.API/obj/MyProducts.API.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/MyProducts.API/obj/MyProducts.API.csproj.nuget.dgspec.json" afterDir="false" />
@@ -86,7 +90,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "bbubhb",
+    "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -169,6 +173,7 @@
       <workItem from="1743332766675" duration="11351000" />
       <workItem from="1743404724955" duration="245000" />
       <workItem from="1743405454165" duration="625000" />
+      <workItem from="1743406781057" duration="84000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -225,7 +230,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/main" />
+                        <option value="main" />
                       </list>
                     </value>
                   </entry>
