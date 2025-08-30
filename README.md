@@ -1,4 +1,4 @@
-##Optei por separar em três camadas para melhor organização do código
+
 
 
 ![Screenshot 2025-04-03 at 13 01 42](https://github.com/user-attachments/assets/0079c2bd-8294-4cbc-9e18-1430f712e196)
